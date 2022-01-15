@@ -7,11 +7,17 @@ font-family: 'Righteous', cursive;
     background-color: #AAAAAA;;
 }
 
-.influencer{
+main{
+    padding-top: 50px;
+
     padding-left: 50px;
     margin-left: 120px;
-    margin-right: 100px;
-    width: 1080px;
+    margin-right: 220px;
+    width: 750px;
+    background-color: white;
+}
+.influencer{
+    
     background-color: white;
     display: flex;
 }
@@ -27,3 +33,59 @@ font-family: 'Righteous', cursive;
    border-radius: 41px;
 
 }
+
+.collections{
+   
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.article{
+    text-align: center;
+}
+
+.collection img{ 
+    width: 220px;
+
+}
+
+.Happy-Clients{
+
+    padding-top: 50px;
+    display: flex;
+}
+.Happy-Clients p{
+    
+    padding-right: 30px;
+    text-align: justify;
+    font-size: 16px;
+}
+
+.client-album img{
+    padding: 30px;
+
+    width: 250px;
+    
+}
+
+
+
+footer{
+    font-size: -1em;
+    color: white;
+    padding-top: 50px;
+
+    padding-left: 50px;
+    margin-left: 120px;
+    margin-right: 220px;
+    width: 750px;
+    background-color: rgb(4, 4, 51);
+    text-align: center;
+}
+
+
+.icon{
+    color: yellow;
+}
+  
+
