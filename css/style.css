@@ -11,7 +11,6 @@
 @media only screen and (min-width: 769px) and (max-width: 1281px) { 
     /* for 10 inches tablet screens */
     main::before {
-      content: "tablet to some desktop media query (769 > 1281) fired";
       text-align: center;
       background: rgba(255, 255, 0, 0.9); /* Semi-transparent yellow */
       position: absolute;  
