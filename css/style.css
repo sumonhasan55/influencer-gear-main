@@ -1,0 +1,29 @@
+
+/* common-style */
+
+body{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Righteous', cursive;
+    background-color: #AAAAAA;;
+}
+
+.influencer{
+    padding-left: 50px;
+    margin-left: 120px;
+    margin-right: 100px;
+    width: 1080px;
+    background-color: white;
+    display: flex;
+}
+
+.influencer-photos img{
+    width: 440px;
+    height: 414px;
+    
+}
+.Preebook-now{
+   background-color:#E02C6D ;
+   color: white;
+   border-radius: 41px;
+
+}
